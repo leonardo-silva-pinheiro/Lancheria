@@ -20,7 +20,7 @@ O cliente é solicitado a escolher um tamanho ("P", "M", "G"). A entrada também
 Se o tamanho inserido não for "P", "M" ou "G", o programa exibe uma mensagem de erro e repete o loop.
 
 Cálculo do Valor da Compra.
-Dependendo das escolhas de sabor e tamanho, o programa define valor_compra com o preço correspondente:
+Dependendo das escolhas de sabor e tamanho, o programa define valor_compra com o preço correspondente.
 Cupuaçu ("CP"):
 Pequeno ("P"): R$ 9.00
 Médio ("M"): R$ 14.00
