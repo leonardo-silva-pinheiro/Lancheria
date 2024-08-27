@@ -56,5 +56,3 @@ O cliente é perguntado se deseja continuar comprando. Se o cliente digitar "S",
 
 Exibição do Valor Total.
 Após o loop, o programa imprime o valor total a ser pago pelo cliente.
-
-Este programa facilita o processo de pedido em uma loja de gelados, permitindo que os clientes escolham sabores e tamanhos de produtos, enquanto calcula e exibe o valor total da compra em tempo real. Ele lida com entradas inválidas pedindo ao usuário para tentar novamente e permite fazer múltiplos pedidos antes de finalizar a compra.
