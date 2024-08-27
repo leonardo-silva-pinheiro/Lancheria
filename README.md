@@ -1,4 +1,6 @@
-Este programa é um sistema de pedido para uma loja de gelados, onde o cliente pode escolher entre diferentes sabores e tamanhos. Ele exibe um menu, coleta as escolhas do cliente e calcula o total a ser pago. Aqui está uma descrição passo a passo do que o programa faz.
+Este programa é um sistema de pedido para uma loja de gelados, onde o cliente pode escolher entre diferentes sabores e tamanhos. Ele exibe um menu, coleta as escolhas do cliente e calcula o total a ser pago.
+
+Aqui está uma descrição passo a passo do que o programa faz.
 
 Exibição do Cardápio.
 
